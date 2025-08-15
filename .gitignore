@@ -6,6 +6,9 @@ __pycache__/
 logs/
 *.pyc
 faiss_index/
+data/
 archive/
 notebook/
 test.py
+tree.py
+project_structure.txt

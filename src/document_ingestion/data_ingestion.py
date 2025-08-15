@@ -12,7 +12,7 @@ from typing import Iterable, List, Optional, Dict, Any
 import fitz  # PyMuPDF
 from langchain.schema import Document
 from langchain_text_splitters import RecursiveCharacterTextSplitter
-from langchain_community.document_loaders import PyPDFLoader, Docx2txtLoader, TextLoader
+from langchain_community.document_loaders import PyMuPDFLoader, Docx2txtLoader, TextLoader
 from langchain_community.vectorstores import FAISS
 
 from utils.model_loader import ModelLoader
