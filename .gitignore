@@ -1,6 +1,6 @@
 env
 .env
-document_portal.egg-info
+NexaDocs_AI.egg-info
 venv/
 __pycache__/
 logs/

@@ -3,9 +3,9 @@
 <div align="center">
   <h3>AI-Powered Document Analysis Platform with Advanced RAG Pipeline</h3>
   <p>
-    <a href="## 🎯 Core Features">Core Features</a> ·
-    <a href="## 🏗️ Architecture">Architecture</a> ·
-    <a href="## 🚀 Getting Started">Getting Started</a>
+    <a href="https://github.com/hardikjain1704/NexaDocs-AI?tab=readme-ov-file#-core-features">Core Features</a> ·
+    <a href="https://github.com/hardikjain1704/NexaDocs-AI?tab=readme-ov-file#%EF%B8%8F-architecture">Architecture</a> ·
+    <a href="https://github.com/hardikjain1704/NexaDocs-AI?tab=readme-ov-file#-getting-started">Getting Started</a>
   </p>
 </div>
 
@@ -60,13 +60,15 @@ Python 3.10+
 ```bash
 git clone https://github.com/hardikjain1704/NexaDocs-AI.git
 cd NexaDocs-AI
+python -m venv venv  
+venv\Scripts\Activate
 pip install -r requirements.txt
 ```
 
 ### Configuration
-Required environment variables:
-- OPENAI_API_KEY
-- HUGGINGFACE_API_KEY
+Required environment variables: (Refer .env.copy)
+- GROQ_API_KEY
+- GOOGLE_API_KEY
 
 ### Running
 ```bash
