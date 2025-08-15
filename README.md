@@ -3,9 +3,9 @@
 <div align="center">
   <h3>AI-Powered Document Analysis Platform with Advanced RAG Pipeline</h3>
   <p>
-    <a href="#features">Features</a> ·
-    <a href="#architecture">Architecture</a> ·
-    <a href="#getting-started">Getting Started</a>
+    <a href="## 🎯 Core Features">Core Features</a> ·
+    <a href="## 🏗️ Architecture">Architecture</a> ·
+    <a href="## 🚀 Getting Started">Getting Started</a>
   </p>
 </div>
 
@@ -58,8 +58,8 @@ Python 3.10+
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/document_portal.git
-cd document_portal
+git clone https://github.com/hardikjain1704/NexaDocs-AI.git
+cd NexaDocs-AI
 pip install -r requirements.txt
 ```
 
@@ -70,12 +70,12 @@ Required environment variables:
 
 ### Running
 ```bash
-uvicorn main:app --reload
+uvicorn api.main:app --reload
 ```
 
 ## 📁 Project Structure
 ```
-document_portal/
+NexaDocs-AI/
 ├── api/                       # API endpoints for serving document portal features
 │   └── main.py
 ├── config/                    # App configuration files (YAML, constants, etc.)

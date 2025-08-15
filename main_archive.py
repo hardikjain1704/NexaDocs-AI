@@ -18,7 +18,7 @@ from src.document_chat.retrieval import ConversationalRAG
 FAISS_BASE = os.getenv("FAISS_BASE", "faiss_index")
 UPLOAD_BASE = os.getenv("UPLOAD_BASE", "data")
 
-app = FastAPI(title="Document Portal API", version="0.1")
+app = FastAPI(title="NexaDocs AI API", version="0.1")
 
 from pathlib import Path
 BASE_DIR = Path(__file__).resolve().parent.parent  # project root
@@ -46,7 +46,7 @@ async def serve_ui(request: Request):
 
 @app.get("/health")
 def health() -> Dict[str, str]:
-    return {"status": "ok", "service": "document-portal"}
+    return {"status": "ok", "service": "nexa-docs-ai"}
 
 class FastAPIFileAdapter:
     """Adapt FastAPI UploadFile -> .name + .getbuffer() API"""
