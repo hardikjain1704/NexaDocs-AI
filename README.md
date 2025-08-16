@@ -1,5 +1,7 @@
 # NexaDocs AI
 
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+
 <div align="center">
   <h3>AI-Powered Document Analysis Platform with Advanced RAG Pipeline</h3>
   <p>
@@ -147,7 +149,8 @@ NexaDocs-AI/
 - [ ] Additional document formats
 
 ## 📄 License
-MIT © [Hardik Jain]
+This project is licensed under the [MIT License](./LICENSE) © 2025 Hardik Jain.
+
 
 ## 📫 Contact
 - Email: hardikjain1704@gmail.com
