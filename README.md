@@ -1,9 +1,13 @@
-# NexaDocs AI
+<div align="center">
+  <h1>NexaDocs AI</h1>
+  <h3>Your Intelligent Document Partner</h3>
+</div>
+
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 
 <div align="center">
-  <h3>AI-Powered Document Analysis Platform with Advanced RAG Pipeline</h3>
+  <h3>Next-Generation AI for Document Analysis, Comparison, and Intelligent Multi-Document Chat</h3>
   <p>
     <a href="https://github.com/hardikjain1704/NexaDocs-AI?tab=readme-ov-file#-core-features">Core Features</a> ·
     <a href="https://github.com/hardikjain1704/NexaDocs-AI?tab=readme-ov-file#%EF%B8%8F-architecture">Architecture</a> ·
