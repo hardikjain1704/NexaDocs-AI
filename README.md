@@ -1,7 +1,9 @@
 <div align="center">
-  <h1>NexaDocs AI</h1>
-  <h3>Your Intelligent Document Partner</h3>
+  <h1>
+    NexaDocs AI <span style="font-size:18px; font-weight:normal; color:gray;">| Your Intelligent Document Partner</span>
+  </h1>
 </div>
+
 
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
